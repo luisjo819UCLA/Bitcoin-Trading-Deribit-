@@ -1,7 +1,3 @@
-Here’s an updated `README.md` that includes details about the extended analysis, data filtering, and dynamic hedging strategies:
-
----
-
 # Deribit Options Data Analysis Project
 
 This project retrieves, cleans, and analyzes options trading data from Deribit's API. It calculates options Greeks, performs implied volatility analysis, and executes synthetic delta hedging strategies to manage risk in options trading for Bitcoin. The analysis and dynamic hedging aim to evaluate market conditions and test strategy robustness over time.
