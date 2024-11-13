@@ -84,4 +84,3 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ---
 
-This `README.md` provides an in-depth look into the data collection, filtering, and dynamic hedging processes, equipping users with a comprehensive understanding of the project and its features. Let me know if you need further modifications or additional information!
